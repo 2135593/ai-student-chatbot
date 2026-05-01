@@ -220,18 +220,6 @@ README.md
 
 ---
 
-## Suggested Screenshots (for submission)
-
-Include the following in your report/repo:
-- Login page
-- Chat interface
-- Source citation example
-- Admin dashboard
-- Document upload page
-- Reminder system
-
----
-
 ## License
 
 This project is developed for academic purposes (CMP600 Extended Project).
