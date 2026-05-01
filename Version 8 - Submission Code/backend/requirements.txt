@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+passlib
+python-jose[cryptography]
+requests
+numpy
+faiss-cpu
+sentence-transformers
+langdetect
+pypdf
+python-docx
+
+pytest
+httpx

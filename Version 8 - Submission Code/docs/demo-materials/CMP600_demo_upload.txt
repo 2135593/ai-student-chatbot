@@ -1,0 +1,11 @@
+CMP600 Extended Project Demo Knowledge Base
+
+The CMP600 Extended Project submission deadline is Friday 1st May 2026 before 23:59.
+Students must submit Project Documentation as a Word or PDF document to the Documentation Turnitin portal.
+Students must submit the Project Product within a ZIP folder to the Product Turnitin portal.
+The Viva Voce is scheduled after submission and is expected to last 30 to 45 minutes.
+
+The project is assessed through three elements: Project Documentation, Project Product, and Viva Voce.
+The Project Documentation is worth 40 percent. The Project Product is worth 40 percent. The Viva Voce is worth 20 percent.
+
+High-scoring software products should exceed requirements, execute core features reliably, provide a professional and accessible user interface, and use modular, well-documented code.
